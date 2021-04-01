@@ -1,3 +1,10 @@
 .about-cards{
     margin-top: 150px;
 }
+
+ /* Small devices (landscape phones, 576px and lower) */
+@media (max-width: 575px) {
+    .about-cards{
+        margin-top: 70px;
+    }
+}
